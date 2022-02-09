@@ -27,7 +27,7 @@
         margin: 20px 0;
     }
 
-    .skill-bar{
+    .skill-bar{ 
         height: 14px;
         background: #282828;
         border-radius: 3px;
@@ -66,7 +66,7 @@
     }
 
     @keyframes fillBars{
-        form{
+        from{
             width: 0;
         }
         to{
